@@ -1,4 +1,12 @@
-### Hi there 👋
+## Hi there 👋
 
-<!--
-**Deleted-accounts/Deleted-accounts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+𝗜'𝗺 [Deleted](https://github.com/Deleted-accounts)
+
+
+- 🔭 I’m currently working on Making some unique things with Python 😋
+- 🌱 I’m currently learning Python as an Hobby !!!
+- ⚡ Fun fact: I'm just an **19 age**
+- 😊 Skills: Quick Learner in All Field 😉
+- 😜 Ask me: About any tech stack i know about 😎
+
+
