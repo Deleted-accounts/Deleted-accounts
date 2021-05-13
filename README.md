@@ -8,5 +8,3 @@
 - ⚡ Fun fact: I'm just an **19 age**
 - 😊 Skills: Quick Learner in All Field 😉
 - 😜 Ask me: About any tech stack i know about 😎
-
-![Stats](                                                                                                          )
